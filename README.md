@@ -4,50 +4,14 @@ permalink: "/about/"
 layout: page
 ---
 
-## Installation
+핸 \| 한국 밖 한국어 사용자 \| 스위스에서 디지털 휴매니티 공부중
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+메일: [haeeun.kim@epfl.ch](mailto:haeeun.kim@epfl.ch)(연구자아), [khaeeun93@gmail.com](mailto:khaeeun93@gmail.com)(표현자아) 
 
-## Features
+[트위터](https://www.twitter.com/haen___k)/[인스타그램](https://www.instagram.com/haen___k): haen___k
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+표현자아 후원계좌: 3333050101760 카카오뱅크 김해은
 
-## Based on
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
-
-## Installation (jekyll-remote-theme method)
-
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
-
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
-
-plugins:
-  - jekyll-remote-theme
-```
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125195-5fa42200-3fa4-11ea-89f8-d09c1d6fe252.png)
+* Based on the Jekyll theme [Contrast](https://github.com/niklasbuschmann/contrast) 
 

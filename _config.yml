@@ -1,10 +1,10 @@
-title: "Blog Title"
+title: 핸곰곰 Haeeun's blog
 author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: Haeeun Kim's Personal Blog
 permalink: /:title/
-lang: "en"
+lang: "ko"
 excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+#date_format: "%B %d, %Y"
 
 # Layout
 
@@ -16,16 +16,20 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:
-  - {file: "index.html", icon: home}
-  - {file: "README.md", icon: address-card}
+  - {file: "README.md", icon: home}
+  - {file: "archive.html", icon: address-card}
+  - {file: "study.html", icon: address-card}
+  - {file: "doodle.html", icon: address-card}
+  # blog
+  # study
 
 external:                  # see http://fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+#  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
+  - {title: Github, icon: github, url: "https://github.com/haeeunkim"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
-#  disqus_shortname: ""    # see https://disqus.com/
+  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
