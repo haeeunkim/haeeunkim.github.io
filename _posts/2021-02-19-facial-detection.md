@@ -131,7 +131,7 @@ date:   2021-02-19 22:52:14+01:00
 
 | ![cotton-field]({{ site.url }}/assets/images/2021-02-19/cotton-field.png){: width="400" }|  
 |:--:|
-|  목화밭에서 일하는 흑인 노예 가족(1860대 사진) [출처](https://www.gettyimages.ch/detail/nachrichtenfoto/slave-family-picking-cotton-in-the-fields-near-nachrichtenfoto/515512016) |
+|  목화밭에서 일하는 흑인 노예 가족(1860년대 사진) [출처](https://www.gettyimages.ch/detail/nachrichtenfoto/slave-family-picking-cotton-in-the-fields-near-nachrichtenfoto/515512016) |
 
 1860년대 조지아의 목화 농장에서 일하는 흑인 노예 가족의 사진에서요.
 
