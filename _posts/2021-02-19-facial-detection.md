@@ -191,3 +191,6 @@ date:   2021-02-19 22:52:14+01:00
 >
 > [6] Sarah L, (2019, April 25), The Racial Bias Built Into Photography _The New York Times_ Retrieved from <https://www.nytimes.com/2019/04/25/lens/sarah-lewis-racial-bias-photography.html>
 
+
+> #### 연관 포스팅
+> - [얼굴 감지 기술은 인종차별적일까? - 비하인드 사족]({{ site.url }}/2021/02/22/hommage-to-leslie-odom-jr.html)
