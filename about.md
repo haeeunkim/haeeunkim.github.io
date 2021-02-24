@@ -6,10 +6,13 @@ key: page-about
 
 ![welcome](assets/images/welcome.jpg)
 
+_For my academic profile, visit [here](profile.html)_
+
 #### 핸(김해은) Haeeun Kim 
 스위스에서 디지털 인문학을 공부합니다. <br/> 한국어로 인스타툰도 그립니다.
 
-I am a MSc student in Digital Humanities at EPFL. <br/> I also doodle and write stuffs in Instagram (in Korean) <br/> For my academic profile, visit [here](profile.html)
+I am a MSc student in Digital Humanities at EPFL. <br/> I also doodle and write stuffs in Instagram (in Korean) 
+
 
 
 #### 연락처 Contact
