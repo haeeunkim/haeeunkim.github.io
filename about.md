@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 핸
+title: About
 key: page-about
 ---
 
