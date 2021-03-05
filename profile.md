@@ -35,7 +35,7 @@ Online social behavior, Democracy of Social media, Language divide on the web, A
 
 - **Programming Languages:** Python, C/C++, Assembly
 - **Data Analysis:** nltk, spaCy, pandas, SciPy, scikit-learn, PySpark, MATLAB
-- **Tools and Framework:** Jupyter Lab, Git/Github, LaTeX, MS Oﬀice
+- **Tools and Framework:** Jupyter Lab, Git/Github, LaTeX, MS Oﬀice, HTML, CSS
 
 ## Languages
 
@@ -45,7 +45,7 @@ Korean(Native), English(Advanced), French(Intermediate), Mandarin Chinese(Basic)
 
 + **How and why is facial feature detection technology biased?** <br/>
 _Image and Video Processing, EPFL, Fall 2020_ [slides]({{ site.url }}/assets/files/EE550_pt.pdf)
-  - Survey project on racial bias of facial detection technology.
+  - A survey project on racial bias of facial detection technology.
 
 + **Understanding the political polarization in Twitter amidst the COVID-19 pandemic** <br/>
 _Computational Social Media, EPFL, Spring 2020_ [report]({{ site.url }}/assets/files/EE727_paper.pdf) [slides]({{ site.url }}/assets/files/EE727_pt.pdf)
@@ -53,9 +53,10 @@ _Computational Social Media, EPFL, Spring 2020_ [report]({{ site.url }}/assets/f
   - Analyzed political polarization during the disaster situation.
 
 + **Discovering the Olympic Games** <br/>
-_Data Visualization, EPFL, Spring 2020_ [repo](https://github.com/com-480-data-visualization/com-480-project-knn-viz) [website](https://com-480-data-visualization.github.io/com-480-project-knn-viz/website/map.html)
+_Data Visualization, EPFL, Spring 2020_ [github](https://github.com/com-480-data-visualization/com-480-project-knn-viz) [website](https://com-480-data-visualization.github.io/com-480-project-knn-viz/website/map.html)
   - Designed interactive visualization of the history of the Olympics on the world map.
-  - Presented various narratives of world history through the history of the Olympics
+  - Presented various narratives of world history through the history of the Olympics.
+  - **Selected as the best project of the year.**
 
 + **How different are rap flows? Comparative analysis on language and genre** <br/>
 _Digital Musicology, EPFL, Spring 2020_ [report]({{ site.url }}/assets/files/DH401_paper.pdf) [slides]({{ site.url }}/assets/files/DH401_pt.pdf)
@@ -63,7 +64,7 @@ _Digital Musicology, EPFL, Spring 2020_ [report]({{ site.url }}/assets/files/DH4
   - Compared inter-lingual and inter-genre differences of difference rap music.
 
 + **Humans of Paris 19th-century** <br/>
-_Fundamentals of Digital Humanities, EPFL, Fall 2019_ [repo](https://github.com/liabifano/humans-of-paris-1900) [project-wiki](http://fdh.epfl.ch/index.php/Sketch_of_Humans_of_Paris_1900)
+_Fundamentals of Digital Humanities, EPFL, Fall 2019_ [github](https://github.com/liabifano/humans-of-paris-1900) [project-wiki](http://fdh.epfl.ch/index.php/Sketch_of_Humans_of_Paris_1900)
 
   - Constructed a webpage that provides closer experience towards 19th-century Paris.
   - Cleaned and processed photograph metadata.
@@ -71,7 +72,7 @@ _Fundamentals of Digital Humanities, EPFL, Fall 2019_ [repo](https://github.com/
 ## Scholarships
 
 **KAIST Support Scholarship Daejeon**<br/>
-_Merit-based scholarships for five semesters 2012;2014;2015_
+_Merit-based scholarships for five semesters (2012;2014;2015)_
 
 ## Activities
 
