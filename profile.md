@@ -21,6 +21,9 @@ Online social behavior, Democracy of Social media, Language divide on the web, A
 
 ## Experience
 
+**Research Assistant** <br/>
+*Idiap Research Institute, Martigny, Valais, Switzerland, 2021 -*
+
 **Teaching Assistant of Undergraduate Computer Network Course** <br/>
 *School of Computing, KAIST, Spring 2016*
 
@@ -75,6 +78,9 @@ _Fundamentals of Digital Humanities, EPFL, Fall 2019_ [github](https://github.co
 _Merit-based scholarships for five semesters (2012;2014;2015)_
 
 ## Activities
+
+- **Invited talk at SeMA, Buk-Seoul Museum of Art** _(2020. 9. 25)_ <br/>
+    _In affliation with the exhibition 'Bottomless Bag' by Na Kim [(link)](https://sema.seoul.go.kr/ee/ctzAcadmy/getDetail?acadmyEeNo=541952), [slides](https://docs.google.com/presentation/d/17pPrZZVkF_sTEPRYm04n3v1EcffYKHWSu3n0nGlavSE/edit?usp=sharing)_ 
 
 - **Creator based on Instagram** _(2018 – Current)_ <br/>
     _[haen___k](https://www.instagram.com/haen___k) (written in Korean)_
