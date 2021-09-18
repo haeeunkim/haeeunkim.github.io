@@ -21,9 +21,15 @@ Online social behavior, Democracy of Social media, Language divide on the web, A
 
 ## Experience
 
-**Research Assistant** <br/>
-*Idiap Research Institute, Martigny, Valais, Switzerland, 2021 -*
+**Semantic Web Develepment Internship** <br/>
+*University of Geneva, Geneva, Switzerland, 2021.09 - 2022.02*
+  - Participate in developing \<DH Portal\> for e-Research branch in UNIGE
 
+**Research Assistant** <br/>
+*Idiap Research Institute, Martigny, Valais, Switzerland, 2021.04 - 2021.08*
+ 
+- Conduct research in connecting mood during eating events and mobile sensing
+  
 **Teaching Assistant of Undergraduate Computer Network Course** <br/>
 *School of Computing, KAIST, Spring 2016*
 
@@ -86,6 +92,8 @@ _Merit-based scholarships for five semesters (2012;2014;2015)_
     _[haen___k](https://www.instagram.com/haen___k) (written in Korean)_
 - **University Choir** _(2012 – Current)_ <br/>
     _Choeur Universitaire de Lausanne(2018 – Current), KAIST CHORUS (2012 –2016)_
+- **French Tutor for Korean highschool students** _(2021 Summer)_ <br/>
+    _Under the arrangement of Myungduk Foreign Language Highschool, Seoul, Korea_
 - **Reading Sewol: Grieving one year of Sewol ferry disaster Spring** _(2015)_ <br/>
     _A performer of a memorial performance of Sewol ferry disaster_
 - **KAIST Undergraduate Student Council** _(2011 ; 2013)_ <br/>
