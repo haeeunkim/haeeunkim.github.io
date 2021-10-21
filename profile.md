@@ -23,12 +23,12 @@ Online social behavior, Democracy of Social media, Language divide on the web, A
 
 **Semantic Web Develepment Internship** <br/>
 *University of Geneva, Geneva, Switzerland, 2021.09 - 2022.02*
-  - Participate in developing \<DH Portal\> for e-Research branch in UNIGE
+  - Participating in developing \<DH Portal\> for e-Research branch in UNIGE
 
 **Research Assistant** <br/>
 *Idiap Research Institute, Martigny, Valais, Switzerland, 2021.04 - 2021.08*
  
-- Conduct research in connecting mood during eating events and mobile sensing
+- Conducted research in connecting mood during eating events and mobile sensing
   
 **Teaching Assistant of Undergraduate Computer Network Course** <br/>
 *School of Computing, KAIST, Spring 2016*
@@ -51,6 +51,10 @@ Online social behavior, Democracy of Social media, Language divide on the web, A
 Korean(Native), English(Advanced), French(Intermediate), Mandarin Chinese(Basic)
 
 ## Course Projects
+
++ **Have you MET these faces?- Decolonizing visual perception on faces through interactive visualization of cultural heritage** <br/>
+_Cultural Data Sculpting, EPFL, Sprint 2021_ [report]({{ site.url }}/assets/files/DH404_report.pdf) [slides]({{ site.url }}/assets/files/DH404_pt.pdf) [project](https://cables.gl/p/CdgZpA)
+  - An interactive visualization of MET open access collections of human faces from different times and places.
 
 + **How and why is facial feature detection technology biased?** <br/>
 _Image and Video Processing, EPFL, Fall 2020_ [slides]({{ site.url }}/assets/files/EE550_pt.pdf)
