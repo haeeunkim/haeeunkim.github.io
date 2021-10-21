@@ -53,7 +53,7 @@ Korean(Native), English(Advanced), French(Intermediate), Mandarin Chinese(Basic)
 ## Course Projects
 
 + **Have you MET these faces?- Decolonizing visual perception on faces through interactive visualization of cultural heritage** <br/>
-_Cultural Data Sculpting, EPFL, Sprint 2021_ [report]({{ site.url }}/assets/files/DH404_report.pdf) [slides]({{ site.url }}/assets/files/DH404_pt.pptx) [project](https://cables.gl/p/CdgZpA)
+_Cultural Data Sculpting, EPFL, Sprint 2021_ [report](https://docs.google.com/document/d/1TPLn9z7yLAejcJ--B2w28VAtymsWCRaAMxD-X7Vul-o/edit?usp=sharing) [slides]({{ site.url }}/assets/files/DH404_pt.pptx) [project](https://cables.gl/p/CdgZpA)
   - An interactive visualization of MET open access collections of human faces from different times and places.
 
 + **How and why is facial feature detection technology biased?** <br/>
