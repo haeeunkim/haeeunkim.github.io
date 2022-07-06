@@ -6,8 +6,11 @@ key: page-about
 
 
 ## Education
-**M.S. in** [Digital Humanities](https://www.epfl.ch/schools/cdh/education-2/dh-master/) _(2019 - Current)_ <br/>
+**Ph.D. in** [Digital Humanities](https://www.epfl.ch/education/phd/eddh-digital-humanities/) _(2022 - )_ <br/>
 [*École Polytechnique Fédérale de Lausanne(EPFL)*](https://www.epfl.ch/en/), Lausanne, Switzerland
+
+**M.S. in** [Digital Humanities](https://www.epfl.ch/schools/cdh/education-2/dh-master/) _(2019 - 2022)_ <br/>
+*École Polytechnique Fédérale de Lausanne(EPFL)*
 
 **B.S. in** [Electrical Engineering](https://ee.kaist.ac.kr/en/), Minor in [Science and Technology Policies](https://stp.kaist.ac.kr) _(2011 - 2016)_ <br/>
 [*Korea Advanced Institute of Science and Technology(KAIST)*](https://www.kaist.ac.kr/en/), Daejeon, South Korea
@@ -20,15 +23,18 @@ Online social behavior, Democracy of Social media, Language divide on the web, A
 
 
 ## Experience
+**Master Project Student** <br/>
+*Social Computing Group, Idiap Research Institute, Martigny, Valais, Switzerland, 2022.02 - 2022.07*
+  - Explored how references are put in English-speaking educational YouTube videos. 
 
 **Semantic Web Develepment Internship** <br/>
 *University of Geneva, Geneva, Switzerland, 2021.09 - 2022.02*
-  - Participating in developing \<DH Portal\> for e-Research branch in UNIGE
+  - Developed a framework for data reconciliation of university research resources with external Linked Open Data
 
 **Research Assistant** <br/>
-*Idiap Research Institute, Martigny, Valais, Switzerland, 2021.04 - 2021.08*
+*Social Computing Group, Idiap Research Institute, 2021.04 - 2021.08*
  
-- Conducted research in connecting mood during eating events and mobile sensing
+- Participated in a research project that connects mood and eating events through mobile sensing
   
 **Teaching Assistant of Undergraduate Computer Network Course** <br/>
 *School of Computing, KAIST, Spring 2016*
@@ -49,6 +55,12 @@ Online social behavior, Democracy of Social media, Language divide on the web, A
 ## Languages
 
 Korean(Native), English(Advanced), French(Intermediate), Mandarin Chinese(Basic)
+
+## Publications
+
++ **When Does it Become Harassment?: An Investigation of Online Criticism and Calling Out in Twitter** <br/>
+_Haesoo Kim, **Haeeun Kim**, Juho Kim, Jeong-woo Jang_ CSCW 2022 (to appear) [paper](https://kixlab.github.io/website-files/2022/cscw2022-callout-paper.pdf) 
+   - Observed 'calling-out' behaviors on Twitter in relation to online harassment and determining the similarities and differences between them.
 
 ## Course Projects
 
