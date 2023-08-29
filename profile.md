@@ -6,9 +6,6 @@ key: page-about
 
 
 ## Education
-**Ph.D. in** [Digital Humanities](https://www.epfl.ch/education/phd/eddh-digital-humanities/) _(2022 - )_ <br/>
-[*École Polytechnique Fédérale de Lausanne(EPFL)*](https://www.epfl.ch/en/), Lausanne, Switzerland
-
 **M.S. in** [Digital Humanities](https://www.epfl.ch/schools/cdh/education-2/dh-master/) _(2019 - 2022)_ <br/>
 *École Polytechnique Fédérale de Lausanne(EPFL)*
 
